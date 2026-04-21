@@ -1,4 +1,4 @@
-# Manuals and Guies
+# Manuals and Guides
 This repository contains manuals and guides.
 
 # Compiling Notice
